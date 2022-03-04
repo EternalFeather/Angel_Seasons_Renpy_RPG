@@ -1,0 +1,65 @@
+=== lisite
+
+{font=9i/fonts/SourceHanSerifCN-Bold.otf}致谢{/font}
+{font=9i/fonts/SourceHanSerifCN-Bold.otf}ALICE IN LONDON{/font}
+{font=9i/fonts/SourceHanSerifCN-Bold.otf}PURPLELIGHT{/font}
+{font=9i/fonts/SourceHanSerifCN-Bold.otf}SEKAI PROJECT{/font}
+{font=9i/fonts/SourceHanSerifCN-Bold.otf}FAVORITE{/font}
+{font=9i/fonts/SourceHanSerifCN-Bold.otf}YUZI SOFT{/font}
+{font=9i/fonts/SourceHanSerifCN-Bold.otf}WINGED CLOUD{/font}
+{font=9i/fonts/SourceHanSerifCN-Bold.otf}网易游戏{/font}
+{font=9i/fonts/SourceHanSerifCN-Bold.otf}米哈游{/font}
+{font=9i/fonts/SourceHanSerifCN-Bold.otf}上海爱丽丝幻乐团{/font}
+
+
+=== xz
+
+{font=9i/fonts/SourceHanSerifCN-Bold.otf}游戏素材来源{/font}
+{font=9i/fonts/SourceHanSerifCN-Bold.otf}星空的记忆{/font}
+{font=9i/fonts/SourceHanSerifCN-Bold.otf}星辰恋曲的白色永恒{/font}
+{font=9i/fonts/SourceHanSerifCN-Bold.otf}阴阳师{/font}
+{font=9i/fonts/SourceHanSerifCN-Bold.otf}原神{/font}
+{font=9i/fonts/SourceHanSerifCN-Bold.otf}sakura dungeon{/font}
+{font=9i/fonts/SourceHanSerifCN-Bold.otf}fault milestone{/font}
+{font=9i/fonts/SourceHanSerifCN-Bold.otf}东方project{/font}
+
+=== yume
+
+{font=9i/fonts/SourceHanSerifCN-Bold.otf}欢迎提供素材{/font}
+{font=9i/fonts/SourceHanSerifCN-Bold.otf}剧本{/font}
+{font=9i/fonts/SourceHanSerifCN-Bold.otf}视频{/font}
+{font=9i/fonts/SourceHanSerifCN-Bold.otf}音乐{/font}
+{font=9i/fonts/SourceHanSerifCN-Bold.otf}配音{/font}
+{font=9i/fonts/SourceHanSerifCN-Bold.otf}立绘{/font}
+
+=== jsqd
+
+{font=9i/fonts/SourceHanSerifCN-Bold.otf}欢迎提供支持{/font}
+{font=9i/fonts/SourceHanSerifCN-Bold.otf}剧本策划{/font}
+{font=9i/fonts/SourceHanSerifCN-Bold.otf}立绘创作{/font}
+{font=9i/fonts/SourceHanSerifCN-Bold.otf}配音合成{/font}
+{font=9i/fonts/SourceHanSerifCN-Bold.otf}特效渲染{/font}
+{font=9i/fonts/SourceHanSerifCN-Bold.otf}数值平衡{/font}
+
+=== xfe
+
+{font=9i/fonts/SourceHanSerifCN-Bold.otf}希望有爱的你们能够一起{/font}
+{font=9i/fonts/SourceHanSerifCN-Bold.otf}为自己热爱的东西而努力{/font}
+
+=== meile
+
+{font=9i/fonts/SourceHanSerifCN-Bold.otf}为了{/font}
+{font=9i/fonts/SourceHanSerifCN-Bold.otf}让更多的人{/font}
+{font=9i/fonts/SourceHanSerifCN-Bold.otf}也能喜欢上{/font}
+{font=9i/fonts/SourceHanSerifCN-Bold.otf}那些被埋没了的美好{/font}
+
+=== gongzhu1
+
+{font=9i/fonts/SourceHanSerifCN-Bold.otf}在这里{/font}
+{font=9i/fonts/SourceHanSerifCN-Bold.otf}让我们一起{/font}
+{font=9i/fonts/SourceHanSerifCN-Bold.otf}尽情地中二{/font}
+
+=== gongzhu2
+
+{font=9i/fonts/SourceHanSerifCN-Bold.otf}愿天底下再也没有{/font}
+{font=9i/fonts/SourceHanSerifCN-Bold.otf}被埋没的好作品{/font}
